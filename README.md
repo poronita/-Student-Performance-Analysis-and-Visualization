@@ -39,7 +39,9 @@ It combines classical EDA with modern Explainable AI techniques to ensure the in
 ## 📊 Dataset Information
 
 - **Dataset:** Students Performance in Exams
-- **Source:** Kaggle ([Link](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams))
+- **Source:** Kaggle <a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams" target="_blank">[Link]</a>
+
+
 - **Features Available:**
   - `gender`
   - `race/ethnicity`
